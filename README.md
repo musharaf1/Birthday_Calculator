@@ -1,2 +1,2 @@
-# FINAL-PROJECT
-a birthday calender sort of program
+# CODE-LAGOS-FINAL-PROJECT
+Birthday Calculator Program Written in Python
